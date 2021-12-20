@@ -1,6 +1,10 @@
 # foic
 File open incognite chrome at shell script.
 
+## Note
+
+This project has only been tested on a Mac.
+
 ## Setup & Usage
 
 ```sh
