@@ -27,7 +27,7 @@ foic <html file>
 
 ## Licence
 
-MIT
+[MIT](https://github.com/shinshin86/foic.sh/blob/main/LICENSE)
 
 ## Author
 
