@@ -1,4 +1,7 @@
-# foic
+# foic.sh
+
+![Logo](./images/logo.png)
+
 File open incognite chrome at shell script.
 
 ## Note
